@@ -1,3 +1,40 @@
+.box {
+	margin: 50px 150px;
+	padding: 10px 50px;
+	border: solid black 3px;
+	background-color: white;
+	}
 body {
 	font-family: arial, sans-serif;
-	}
+	background-color: #333333;
+	color: #676a6c;
+}
+h4 {
+	color: white;
+	background-color: #07aa9e
+}
+h5 {
+	font-size: 14px;
+}
+ul {
+	columns: 2 100px;
+	column-fill: balance;
+	list-style-type: none;
+}
+.basic {
+	line-height: 15px;
+}
+.wex ul {
+	font-size: 12px;
+	list-style-type: disc;
+	column-gap: 30px;
+}
+.ve p {
+	text-indent: 25px;
+}
+.lang img {
+	padding-right: 2px;
+}
+.cert ul {
+	padding-left: 0px;
+}
