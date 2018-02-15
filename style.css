@@ -23,6 +23,7 @@ ul {
 }
 .basic {
 	line-height: 15px;
+	text-decoration: none;
 }
 .wex ul {
 	font-size: 12px;
